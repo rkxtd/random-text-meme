@@ -1,0 +1,23 @@
+{
+  "name": "random-text-meme",
+  "version": "0.0.1",
+  "description": "get random text meme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "meme",
+    "text",
+    "meme",
+    "generator",
+    "text",
+    "meme",
+    "unicode"
+  ],
+  "author": "Roman Shuvaryk <rk.xtd@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "random": "^2.0.12"
+  }
+}
