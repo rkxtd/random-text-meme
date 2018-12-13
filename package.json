@@ -1,6 +1,6 @@
 {
   "name": "random-text-meme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "get random text meme",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
     "random": "^2.0.12"
   },
   "homepage": "https://github.com/xcomanche/random-text-meme",
-  "url" : "https://github.com/xcomanche/random-text-meme/issues",
-  "email" : "rk.xtd@hotmail.com"
+  "url": "https://github.com/xcomanche/random-text-meme/issues",
+  "email": "rk.xtd@hotmail.com"
 }
