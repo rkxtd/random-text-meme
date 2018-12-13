@@ -5,7 +5,7 @@
 ### Require
 ``const { getEmoji, getAllEmoji, getThemes } = require('random-text-meme');``
 ### Display emoji
-``dpcoment.write(getEmoji('flip-table'));``
+``document.write(getEmoji('flip-table'));``
 ### Results
 Outputs: (╯°□°）╯︵ ┻━┻
 ### Not Found
