@@ -10,6 +10,8 @@
 * ``getThemes();`` => ['boo', 'bear', 'cat', 'dog', ...]
 ### Not Found
 if for some reason dictionary not found, or emoji could not be found, default emoji: (╯°□°）╯︵ ᔭ0ᔭ would be returned.
+### Test
+``npm run test`` runs unit tests
 
 ## Api
 * ``getEmoji`` - returns random emoji. theme name can be specified (than random emoji would be chosen from within a theme).
