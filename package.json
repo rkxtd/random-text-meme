@@ -1,6 +1,6 @@
 {
   "name": "random-text-meme",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "get random text meme",
   "main": "index.js",
   "scripts": {
