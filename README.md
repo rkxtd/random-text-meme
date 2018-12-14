@@ -5,7 +5,13 @@
 "CodeClimate")
 [![dependencies Status](https://david-dm.org/xcomanche/random-text-meme/status.svg)](https://david-dm.org/xcomanche/random-text-meme)
 [![devDependencies Status](https://david-dm.org/xcomanche/random-text-meme/dev-status.svg)](https://david-dm.org/xcomanche/random-text-meme?type=dev)
-![](https://img.shields.io/bundlephobia/min/random-text-meme.svg)
+[![bundle size](https://img.shields.io/bundlephobia/min/random-text-meme.svg)](https://bundlephobia.com/result?p=random-text-meme)
+![](https://img.shields.io/npm/dt/random-text-meme.svg)
+![](https://img.shields.io/github/issues/xcomanche/random-text-meme.svg)
+![](https://img.shields.io/npm/l/random-text-meme.svg)
+![](https://img.shields.io/github/last-commit/xcomanche/random-text-meme.svg)
+
+
 
 # random-text-meme generator
 ## Usage
