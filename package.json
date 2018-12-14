@@ -18,9 +18,6 @@
   ],
   "author": "Roman Shuvaryk <rk.xtd@hotmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "random": "^2.0.12"
-  },
   "homepage": "https://github.com/xcomanche/random-text-meme",
   "url": "https://github.com/xcomanche/random-text-meme/issues",
   "email": "rk.xtd@hotmail.com",

@@ -1,4 +1,3 @@
-const random = require('random');
 const dict = require('./emoji.json');
 let cache = false;
 const NOT_FOUND_EMOJI = `(╯°□°）╯︵ ᔭ0ᔭ`;
@@ -29,7 +28,7 @@ const loadEmoji = (theme) => {
  */
 const loadOneEmoji = (theme = '') => {
     const emoji = loadEmoji(theme);
-    const i = random.int(0, emoji.length - 1);
+    const i = Math.floor(Math.random() * (emoji.length - 1)) + 1;
     return emoji[i] || NOT_FOUND_EMOJI;
 };
 

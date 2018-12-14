@@ -5,6 +5,7 @@
 "CodeClimate")
 [![dependencies Status](https://david-dm.org/xcomanche/random-text-meme/status.svg)](https://david-dm.org/xcomanche/random-text-meme)
 [![devDependencies Status](https://david-dm.org/xcomanche/random-text-meme/dev-status.svg)](https://david-dm.org/xcomanche/random-text-meme?type=dev)
+![](https://img.shields.io/bundlephobia/min/random-text-meme.svg)
 
 # random-text-meme generator
 ## Usage
