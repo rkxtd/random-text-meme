@@ -1,4 +1,4 @@
-const randomTextMeme = require("./index");
+const randomTextMeme = require("random-text-meme");
 
 // One Random Emoji.
 console.log(randomTextMeme.getEmoji());
