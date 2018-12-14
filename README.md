@@ -15,6 +15,10 @@
 
 
 # random-text-meme generator
+Tired? we don't know how to help you! but we sure do have nice text emoji.
+ヽ(°∀°人´ヮ´)ﾉ
+
+Just look on those beautiful faces: ᶘಠᴥಠᶅ (´・(oo)・｀) ᕕ( ᐛ )ᕗ ( ͡° ͜ʖ ͡°) 乁(ツ)ㄏ
 ## Usage
 ### Install
 ``npm i random-text-meme --save``
