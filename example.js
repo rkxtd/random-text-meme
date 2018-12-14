@@ -1,3 +1,5 @@
+// RunKit platform requires package name from NPM registry.
+// Will not work on local machine, unless you have package installed globally.
 const randomTextMeme = require("random-text-meme");
 
 // One Random Emoji.
