@@ -21,6 +21,7 @@
   "homepage": "https://github.com/xcomanche/random-text-meme",
   "url": "https://github.com/xcomanche/random-text-meme/issues",
   "email": "rk.xtd@hotmail.com",
+  "tonicExampleFilename": "example.js",
   "devDependencies": {
     "chai": "^4.2.0",
     "coveralls": "^3.0.2",
