@@ -17,7 +17,11 @@
 Tired? we don't know how to help you! but we sure do have nice text emoji.
 ヽ(°∀°人´ヮ´)ﾉ
 
-Just look at those beautiful faces: ᶘಠᴥಠᶅ (´・(oo)・｀) ᕕ( ᐛ )ᕗ ( ͡° ͜ʖ ͡°) 乁(ツ)ㄏ
+Just look at those beautiful faces: ᶘಠᴥಠᶅ (´・(oo)・｀) ᕕ( ᐛ )ᕗ ( ͡° ͜ʖ ͡°) 乁(ツ)ㄏ (ᵔᴥᵔ)
+### Demo
+RunKit friendly demo!
+https://npm.runkit.com/random-text-meme
+
 ## Usage
 ### Install
 ``npm i random-text-meme --save``
