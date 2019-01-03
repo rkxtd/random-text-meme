@@ -3,16 +3,16 @@
 const randomTextMeme = require("random-text-meme");
 
 // One Random Emoji.
-console.log(randomTextMeme.getEmoji());
+console.log(`Random emoji: ${randomTextMeme.getEmoji()}`);
 
 // One Random Emoji from specified theme.
-console.log(randomTextMeme.getEmoji('shrug'));
-
-// All Emoji from specified theme.
-console.log(randomTextMeme.getAllEmoji('cat'));
+console.log(`Random Shrug emoji: ${randomTextMeme.getEmoji('shrug')}`);
 
 // All Emoji we have in dictionary.
-console.log(randomTextMeme.getAllEmoji());
+console.log(`All emoji: ${randomTextMeme.getAllEmoji()}`);
+
+// All Emoji from specified theme.
+console.log(`All cat emoji: ${randomTextMeme.getAllEmoji('cat')}`);
 
 // List of themes
-console.log(randomTextMeme.getThemes());
+console.log(`All emoji themes: ${randomTextMeme.getThemes()}`);
